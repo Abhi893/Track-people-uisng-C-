@@ -1,4 +1,4 @@
-# Track-people-uisng-C-
+# Track-people-uisng-C++
 Track People using C++ ,Take any video file as input and output will be HSV format video 
 Download opencv 4.5 version 
 
